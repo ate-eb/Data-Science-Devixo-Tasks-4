@@ -48,7 +48,4 @@ The Power BI report (`task4.pbix`) is structured into **five core analytical pag
 
 ---
 
-## 🚀 How to Run / View the Project
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
+
